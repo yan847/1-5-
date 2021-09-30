@@ -1,5 +1,5 @@
 ﻿// ConsoleApplication14.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
+// Задание 1-2 номер 19
 #include "pch.h"
 #include <iostream>
 #include <string>
